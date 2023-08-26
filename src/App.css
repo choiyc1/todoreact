@@ -1,0 +1,25 @@
+
+.maintodo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+
+.input1{
+    background-color: rgb(222, 220, 220);
+    border-color: rgb(156, 156, 156);
+}
+ 
+.addbutton{
+    height: 22px;
+    background-color: white;
+    border-radius: 10%;
+}   
+.todobutton{
+    border:none;
+    background-color: rgb(241, 239, 239);
+    text-decoration: underline;
+    font-size: 10px;
+}
